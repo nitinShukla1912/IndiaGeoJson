@@ -1,2 +1,2 @@
 # IndiaGeoJson
-GeoJson Map of India
+GeoJson Map of India and Gujarat
